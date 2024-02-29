@@ -54,13 +54,6 @@ En el caso donde no funcione correctamente el archivo dockerScript.sh (se presen
 
 Soporte:
 
-	En caso de necesitar información adicional o querer conocer detalles de la implementación se sugiere acceder al repositorio de GitHub público del proyecto O contactarse con cualquiera de los desarrolladores
-
-    Link al repositorio público:
-        https://github.com/JoseMenta/TPE
-
-    Contacto de desarrolladores:
-
         Axel Facundo Preiti Tasat: https://github.com/AxelPreitiT
         Gaston Ariel Francois: https://github.com/francoisgaston
         Jose Rodolfo Mentasti: https://github.com/JoseMenta
